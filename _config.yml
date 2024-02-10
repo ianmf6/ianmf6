@@ -15,14 +15,16 @@
 # in the templates via {{ site.myvariable }}.
 title: Ian Marrero's Blog
 repository: ianmf6/ianmf6
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Ian Marrero's personal blog. 
+#email:
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Ian Marrero's personal blog. 
+description: Ian Marrero's personal blog.
 # twitter_username: username
 github_username: ianmf6
 minimal_mistakes_skin: default
 search: true
-baseurl: https://ianmf.com
+url: https://ianmf.com/
+baseurl: /
 
 # Build settings
 markdown: kramdown
@@ -61,7 +63,7 @@ author:
   name   : "Ian Marrero"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Cybersecurity Engineer"
-  url    : "https://ianmf.com"
+ # url    : "https://ianmf.com"
   location    : "Maryland, US"
   links:
 #    - label: "Twitter"
