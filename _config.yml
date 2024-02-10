@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Cybersecurity Engineer"
   url    : "https://ianmf.com"
-  url    : "Maryland, US"
+  location    : "Maryland, US"
   links:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
