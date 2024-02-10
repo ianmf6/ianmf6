@@ -1,8 +1,30 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am **Ian Marrero,** a technology enthusiast, who enjoys playing with technology and figuring stuff out. I am a **Cyber Security Engineer** and have a M.S. in Cybersecurity Technology. I use this blog to share my professional and personal experience in cybersecurity, system administration, and a way to keep notes of important things I have learned or came across that you might find interesting too.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Resume: [Here](/resume/)
+
+Certifications:
+
+![CISSP](/assets/images/2021/04/isc2_cissp2-150x150.png)
+
+![](/assets/images/2019/10/giac-certified-incident-handler-gcih-150x150.png)![](/assets/images/2019/10/giac_advisory_board-badge-150x150.png)  
+![](/assets/images/2019/07/SecurityPlus-Logo-Certified-CE-1-150x150.jpg)![](/assets/images/2019/07/NetworkPlus-Logo-Certified-CE-1-150x150.jpg)![](/assets/images/2019/07/Aplus-Logo-Certified-CE-1-150x150.jpg)
+
+ Verify through [Credly.com](https://www.credly.com/users/ian-marrero)
+
+Things that I enjoy:
+
+- Information Security.
+- Penetration Testing.
+- Lockpicking
+- Bicycling / Hiking.
+- Gaming.
+- Reading.
+- Coding.
+
+Disclaimer: All opinions expressed here on my blog, social media profiles, and other social platforms are solely mine and do not reflect those of my employer, posts and mentions of products do not constitute endorsement of any position, product, or service.
+{: .notice}
