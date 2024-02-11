@@ -1,0 +1,11 @@
+.bundle/
+vendor/
+.tags*
+Gemfile.lock
+pkg
+_site/
+tmp/
+*.gem
+.jekyll-cache/
+.jekyll-metadata
+.DS_Store
