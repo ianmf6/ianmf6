@@ -7,8 +7,6 @@ tags:
   - blog
 ---
 
-### Transitioning from WordPress on Digital Ocean to Jekyll on GitHub Pages
-
 I recently embarked on a tech journey, moving my blog from WordPress hosted on a Digital Ocean droplet to using Jekyll on GitHub Pages. This wasn't just a leap from one platform to another; it was a step towards simplification and efficiency after facing a significant hiccup.
 
 ### The Original Setup with WordPress and Digital Ocean
