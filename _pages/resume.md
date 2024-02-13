@@ -16,7 +16,7 @@ Technically-knowledgeable and accomplished cyber security professional with expe
 **_CAREER HISTORY_**
 
 **Principal Cyber Engineer**, Forcepoint  
-**February**  **2020 – Present** (40 hours / week)
+**February**  **2020 – Present** 
 
 **■**  Provided engineering, implementation, configuration, and integration of cyber security products and solutions running Linux and Windows on virtual and physical hardware environment.
 
@@ -33,7 +33,7 @@ Technically-knowledgeable and accomplished cyber security professional with expe
 **■**  Prepare and maintain technical documentation to include Visio drawings, network topology layout, customer requirements, and Standard Operating Procedures.
 
 **SYSTEM ARCHITECT (Cyber Security Analyst)**, U.S. Army Cyber Command  
-**September**  **2018 – February 2020** (40 hours / week)
+**September**  **2018 – February 2020** 
 
 **■**  Performed the duties of team’s lead host cyber analyst.
 
@@ -59,22 +59,22 @@ Technically-knowledgeable and accomplished cyber security professional with expe
 
 **UNIVERSITY OF MARYLAND UNIVERSITY COLLEGE,** Adelphi, MD
 
-**■**  **_Master Certificate in Cybersecurity Management and Policies, 2019._**
+**■**  Master Certificate in Cybersecurity Management and Policies, 2019.
 
-**■**  **_Master of Science in Cybersecurity, 2019._**
+**■**  Master of Science in Cybersecurity, 2019.
 
-**■**  **_Bachelor of Science in Computer and Information Science, 2015._**
+z**■**  Bachelor of Science in Computer and Information Science, 2015.
 
 **_TECHNICAL COMPETENCIES_**
 
-**_Awards:  Department of Commerce Bronze Medal 2017_**
+**_Awards:_**  Department of Commerce Bronze Medal 2017
 
-**_Certifications: CISSP, GCIH, Security+, Network+, A+_**
+**_Certifications:_** CISSP, GCIH, Security+, Network+, A+
 
-**_Skills:  ACAS, AWS, Bro/Zeek, Cisco Switches, Cyber Threat Emulation, Digital Forensics, Docker, DNS, Endgame, Endpoint Detection and Response (EDR), Firewalls, Incident Response, IDS, Insider Threat, IPS, Kali, Kubernetes, Red Hat Enterprise Linux, Malware Analysis, Microsoft Windows, Nessus, PowerShell, Red Seal , Shell Scripting, Security Onion, Snort, Splunk, TCP/IP, VLAN_**
+**_Skills:_**  ACAS, AWS, Bro/Zeek, Cisco Switches, Cyber Threat Emulation, Digital Forensics, Docker, DNS, Endgame, Endpoint Detection and Response (EDR), Firewalls, Incident Response, IDS, Insider Threat, IPS, Kali, Kubernetes, Red Hat Enterprise Linux, Malware Analysis, Microsoft Windows, Nessus, PowerShell, Red Seal , Shell Scripting, Security Onion, Snort, Splunk, TCP/IP, VLAN
 
-**_Languages:  Fluent English, Fluent Spanish (both written and spoken)_**
+**_Languages:_**  Fluent English, Fluent Spanish (both written and spoken)
 
-**_Security Clearance:  Top Secret / Sensitive Compartmented Information (TS/SCI) with Counter-Intelligence (CI) Polygraph_**
+**_Security Clearance:_**  Top Secret / Sensitive Compartmented Information (TS/SCI) with Counter-Intelligence (CI) Polygraph
 
 **-references furnished upon request-**
