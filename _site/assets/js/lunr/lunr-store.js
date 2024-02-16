@@ -126,8 +126,8 @@ var store = [{
         "teaser": null
       },{
         "title": "Transitioning from WordPress to Jekyll on GitHub Pages",
-        "excerpt":"Transitioning from WordPress on Digital Ocean to Jekyll on GitHub Pages I recently embarked on a tech journey, moving my blog from WordPress hosted on a Digital Ocean droplet to using Jekyll on GitHub Pages. This wasn’t just a leap from one platform to another; it was a step towards...","categories": ["Blog"],
+        "excerpt":"I recently embarked on a tech journey, moving my blog from WordPress hosted on a Digital Ocean droplet to using Jekyll on GitHub Pages. This wasn’t just a leap from one platform to another; it was a step towards simplification and efficiency after facing a significant hiccup. The Original Setup...","categories": ["Blog"],
         "tags": ["blog"],
-        "url": "/2024/02/new-blog/",
+        "url": "/2024/02/Transitioning-from-WordPress-to-Jekyll-on-GitHub-Pages/",
         "teaser": null
       }]
